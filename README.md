@@ -1,18 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=1000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Hello👋;I'm+IKIS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=1000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Hello👋;I'm+ROUTR??!)](https://git.io/typing-svg)
 ---
 <h3 align="center">A person who loves to code. :)</h3>
 
-![Web](https://github.com/ikiszzz/ikiszzz/blob/main/img/long%20banner.png?raw=true)
+![Web](https://cdn.discordapp.com/attachments/1365534655209799820/1444361832193196073/Screenshot_2025-11-29_214422.png?ex=692c6e47&is=692b1cc7&hm=41bebf6432b04dfa07bf3c7444dd47d605b3d1645e9e523cbb899a2ba9b76d72)
 
-<p align="left"> <img src="https://cdn.discordapp.com/attachments/1365534655209799820/1444361832193196073/Screenshot_2025-11-29_214422.png?ex=692c6e47&is=692b1cc7&hm=41bebf6432b04dfa07bf3c7444dd47d605b3d1645e9e523cbb899a2ba9b76d72style=flat" alt="ikiszzz" /> </p>
 
-- 🩺 I'm a **medical student**
 
 - 🖥️ I love to dev **`Discord Bots`.**
 
-- My Development Projects: **https://discord.gg/cu9KDqRgUh**
+- My Development Projects: **Soon**
 
-- I learned **JavaScript and Python, including other things related to these languages**
+- I learned **Python, HTML and css including other things related to these languages**
  
  <div align="center">
   
@@ -22,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/cu9KDqRgUh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cu9KDqRgUh" height="30" width="40" /></a>
+<a href="https://discord.gg/QsdhrSJ4kX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cu9KDqRgUh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
