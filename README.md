@@ -2,7 +2,6 @@
 ---
 <h3 align="center">A person who loves to code. :)</h3>
 
-![Web](https://cdn.discordapp.com/attachments/1365534655209799820/1444361832193196073/Screenshot_2025-11-29_214422.png?ex=692c6e47&is=692b1cc7&hm=41bebf6432b04dfa07bf3c7444dd47d605b3d1645e9e523cbb899a2ba9b76d72)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikiszzz&label=Profile%20views&color=0e75b6&style=flat" alt="ikiszzz" /> </p>
 
@@ -12,8 +11,10 @@
 
 - I learned **Python, HTML and css including other things related to these languages**
  
- <div align="center">
-  
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1405146958045122671?borderRadius=15px&theme=dark&showDisplayName=true)](https://discord.com/users/1252101579855630346)
+
 </div>
 
 ---
